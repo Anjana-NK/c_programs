@@ -18,5 +18,4 @@ void main() {
     x = a / (b - c);
     printf("(b): x = %f\n", x);
 
-    
 }
