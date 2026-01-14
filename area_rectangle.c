@@ -5,6 +5,6 @@ void main(){
     scanf("%f%f",&l,&b);
     area=l*b;
     p=2*(l+b);
-    printf("area of rectangle is %f",area);
+    printf("area of rectangle is %f\n",area);
     printf("perimeter of rectangle is %f",p);
 }
