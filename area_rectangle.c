@@ -1,8 +1,10 @@
 #include<stdio.h>
 void main(){
-    float l,b,area;
+    float l,b,p,area;
     printf("enter length and breadth of rectangle");
     scanf("%f%f",&l,&b);
     area=l*b;
-    printf("area of rectangle is %f",area);
+    p=2*(l+b);
+    printf("area of rectangle is %f\n",area);
+    printf("perimeter of rectangle is %f",p);
 }
