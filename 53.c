@@ -2,14 +2,14 @@
 
 int main() {
     float a, b, c, d, m, n;
-    float x1, x2, d;
+    float x1, x2, den;
 
     printf("Enter the values of a, b, c, d, m, n: ");
     scanf("%f %f %f %f %f %f", &a, &b, &c, &d, &m, &n);
 
-    d=(a*d)-(c*b);
-    x1=(m*d-b*n)/d;
-    x2=(n*a-m*c)/d;
+    den=(a*d)-(c*b);
+    x1=(m*d-b*n)/den;
+    x2=(n*a-m*c)/den;
 
     printf("The solution is:\n");
     printf("x1 = %f\n", x1);
