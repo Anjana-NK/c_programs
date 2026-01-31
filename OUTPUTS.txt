@@ -95,3 +95,9 @@ output of 55.c
 Enter marks for Math, Physics, and Chemistry: 61 51 39
 
 Result: NOT ELIGIBLE
+
+output of 59.c
+enter value of x:6
+The value of y using nested if is:1
+The value of y using else if is:1
+The value of y using conditional operator is:1
