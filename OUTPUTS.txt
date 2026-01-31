@@ -1,6 +1,8 @@
 **largest.c output
     Enter three numbers: 55 44 98
     The largest number is: 98
+
+
 calc.c output 
     Enter two numbers: 54 62
     which operation do you want to perform?
@@ -10,3 +12,75 @@ calc.c output
     4. Division
     3
     The product is: 3348.000000
+
+
+Program Name: area_circle_mod.c
+enter radius of circle 5
+enter radius of sphere 3
+area of circle is 78.500000
+and perimeter is 31.400000
+volume of sphere is 84.780000
+
+Output of area_rectangle.c
+enter length and breadth of rectangle
+5 4
+area of rectangle is 20.000000
+perimeter of rectangle is 18.000000
+
+
+Output of eoq_tbo.c
+enter demand rate 10
+enter setup cost 50
+enter holding cost per item per unit tine 2
+value of eoq is 22.360680 and of tbo is 1.581139
+
+
+Output of ex21.c
+5x+8y=18
+
+
+Output of expression.c
+(a): x = 4.000000
+
+Output of findg.exe
+Enter the length of the pendulum: 1
+Enter the time period of the pendulum: 2
+The acceleration due to gravity is: 9.859600 m/s^2
+
+Output of sf_of_circle_sphere.c
+Output of circle_sphere.c
+enter radius of circle 5
+area of circle is 78.500000 
+ and perimeter is 31.400000 
+enter radius of sphere 3
+volume of sphere is 84.780000
+
+
+Output of sum_of_digits.c
+enter a two digit number 47
+sum of digits is 11
+
+Output of swap.c
+enter value of a 5
+enter value of b 8
+value of a is 8 and of b is 0
+
+
+Output of temp.c
+enter value of temprature in celcius 25
+value in farenheit is 77.000000
+
+Output of tutorial3.c
+ANJANA NK
+25109987
+dept of computer science	cusat
+sum is 30
+
+
+Output of volumecuboid.c
+enter length, breadth and height of cuboid 2 3 4
+volume of cuboid is 24.000000
+
+
+
+
