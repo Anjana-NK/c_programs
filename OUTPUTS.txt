@@ -1,0 +1,12 @@
+**largest.c output
+    Enter three numbers: 55 44 98
+    The largest number is: 98
+calc.c output 
+    Enter two numbers: 54 62
+    which operation do you want to perform?
+    1. Addition
+    2. Subtraction
+    3. Multiplication
+    4. Division
+    3
+    The product is: 3348.000000
