@@ -101,3 +101,25 @@ enter value of x:6
 The value of y using nested if is:1
 The value of y using else if is:1
 The value of y using conditional operator is:1
+
+output of 54.c
+Enter number of students: 6
+Enter marks:
+45
+77
+90
+101
+Invalid mark entered. Please enter marks between 0 and 100.
+32
+23
+80
+
+Results:
+More than 80 marks  : 1
+More than 60 marks  : 3
+More than 40 marks  : 4
+40 or less marks    : 2
+Marks 81 to 100     : 1
+Marks 61 to 80      : 2
+Marks 41 to 60      : 1
+Marks 0 to 40       : 2
