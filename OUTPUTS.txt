@@ -132,3 +132,15 @@ output of calcswitch.calc
 enter your choice2
 enter two numbers23 10
 difference is 13.000000
+
+output of fibonacci.c
+Enter number: 6
+0 1 1 2 3 5 
+
+output of reverse.c 
+Enter number: 5643
+Reversed number: 3465
+
+output of sumofdigits.c 
+Enter number: 12345
+Sum of digits: 15
