@@ -123,3 +123,12 @@ Marks 81 to 100     : 1
 Marks 61 to 80      : 2
 Marks 41 to 60      : 1
 Marks 0 to 40       : 2
+
+output of calcswitch.calc
+1.addition
+2.substraction
+3.multiplication
+4.division
+enter your choice2
+enter two numbers23 10
+difference is 13.000000
