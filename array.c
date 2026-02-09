@@ -42,7 +42,9 @@ int main() {
                 break;
             case 4:
                 printf("Exiting the program.\n");
-                break;    
+                break;   
+            default:
+                printf("Invalid choice. Please try again.\n");   
         }
     }while(choice!=4);
 }
