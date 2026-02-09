@@ -145,3 +145,38 @@ output of sumofdigits.c
 Enter number: 12345
 Sum of digits: 15
 
+output of array.c
+Enter the number of elements in the array: 4
+Enter the elements of the array: 55
+12
+16
+36
+
+1. Sum of elements
+2. Product of elements
+3. Search an element
+4. Exit
+Enter your choice: 3
+Enter the element to be searched: 16
+Element found 1 times in the array.
+
+1. Sum of elements
+2. Product of elements
+3. Search an element
+4. Exit
+Enter your choice: 1
+Sum of elements = 119
+
+1. Sum of elements
+2. Product of elements
+3. Search an element
+4. Exit
+Enter your choice: 2
+Product of elements = 380160
+
+1. Sum of elements
+2. Product of elements
+3. Search an element
+4. Exit
+Enter your choice: 4
+Exiting the program.
