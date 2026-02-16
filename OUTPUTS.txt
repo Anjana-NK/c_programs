@@ -238,3 +238,18 @@ lower triangle
 sum of diagonal elements is 15
 sum of upper triangle elements is 26
 sum of lower triangle elements is 34
+
+output of pdtmatrix.c
+enter rows and coloum of first matrix2 2 
+enter rows and coloumn of second matrix2 2
+enter elements to first matrix1
+2
+3
+4
+enter elements to second matrix5
+6
+7
+8
+product of two matrices is
+19      22
+43      50
