@@ -23,10 +23,10 @@ int main() {
             break;
         }
         else if (arr[mid] < key) {
-            low = mid + 1;
+            low = mid + 1; //updating low to right
         }
         else {
-            high = mid - 1;
+            high = mid - 1;//updating high to left
         }
     }
     if (found == 0) {

@@ -180,3 +180,61 @@ Product of elements = 380160
 4. Exit
 Enter your choice: 4
 Exiting the program.
+
+output of diagonal.c
+enter rows and coloum of matrix3 3
+enter elements to first matrix 1 
+2
+3
+4
+5
+6
+6
+6
+6
+156
+
+output of summatrix.c
+enter rows and coloum of first matrix2 3
+enter rows and coloumn of second matrix2 3
+enter elements to first matrix1
+2
+3
+4
+5
+6
+enter elements to second matrix7
+8
+9
+10
+11
+12
+8	10	12	
+14	16	18
+
+output of matrix.c
+enter rows and coloum of matrix3 3
+enter elements to first matrix1
+2
+3
+4
+5
+6
+7
+8
+9
+diagonal elements
+1			
+	5		
+		9	
+upper triangle
+1	2	3	
+	5	6	
+		9	
+lower triangle
+1			
+4	5		
+7	8	9	
+sum of diagonal elements is 15
+sum of upper triangle elements is 26
+sum of lower triangle elements is 34
