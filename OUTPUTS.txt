@@ -253,3 +253,64 @@ enter elements to second matrix5
 product of two matrices is
 19      22
 43      50
+
+output of stringop.c
+STRING OPERATIONS MENU
+1. String Length (strlen)
+2. String Copy (strcpy)
+3. String Concatenation (strcat)
+4. String Compare (strcmp)
+5. Exit
+Enter your choice: 1
+Enter a string: hello
+Length of string = 5
+
+STRING OPERATIONS MENU
+1. String Length (strlen)
+2. String Copy (strcpy)
+3. String Concatenation (strcat)
+4. String Compare (strcmp)
+5. Exit
+Enter your choice: 2
+Enter a string: apple
+Copied string = apple
+
+STRING OPERATIONS MENU
+1. String Length (strlen)
+2. String Copy (strcpy)
+3. String Concatenation (strcat)
+4. String Compare (strcmp)
+5. Exit
+Enter your choice: 3
+Enter first string: hello
+Enter second string: world
+Concatenated string = helloworld
+
+STRING OPERATIONS MENU
+1. String Length (strlen)
+2. String Copy (strcpy)
+3. String Concatenation (strcat)
+4. String Compare (strcmp)
+5. Exit
+Enter your choice: 4 
+Enter first string: hello
+Enter second string: Hello
+Strings are Not Equal
+
+STRING OPERATIONS MENU
+1. String Length (strlen)
+2. String Copy (strcpy)
+3. String Concatenation (strcat)
+4. String Compare (strcmp)
+5. Exit
+Enter your choice: 6
+Invalid choice!
+
+STRING OPERATIONS MENU
+1. String Length (strlen)
+2. String Copy (strcpy)
+3. String Concatenation (strcat)
+4. String Compare (strcmp)
+5. Exit
+Enter your choice: 5
+Exiting program...
