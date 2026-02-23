@@ -328,3 +328,11 @@ a = 97
 N = 78
   = 32
 K = 75
+
+output of palindrome.c
+\c_programs> .\a.exe
+Enter a string: madam
+Palindrome
+Desktop\c_programs> .\a.exe
+Enter a string: apple
+Not Palindrome
