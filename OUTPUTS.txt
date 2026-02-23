@@ -314,3 +314,17 @@ STRING OPERATIONS MENU
 5. Exit
 Enter your choice: 5
 Exiting program...
+
+output of nametoascii.c
+Enter your name: Anjana N K
+ASCII values:
+A = 65
+n = 110
+j = 106
+a = 97
+n = 110
+a = 97
+  = 32
+N = 78
+  = 32
+K = 75
