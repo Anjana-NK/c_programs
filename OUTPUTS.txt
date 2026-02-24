@@ -336,3 +336,9 @@ Palindrome
 Desktop\c_programs> .\a.exe
 Enter a string: apple
 Not Palindrome
+
+output of sumfunc2.c
+enter numbers2
+3
+sum is 52 32 3
+
