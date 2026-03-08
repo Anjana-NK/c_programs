@@ -336,3 +336,14 @@ Palindrome
 Desktop\c_programs> .\a.exe
 Enter a string: apple
 Not Palindrome
+
+output of sumfunc2.c
+enter numbers2
+3
+sum is 5
+
+output of function.c
+enter a number to find reverse 123
+reversed number is 321enter a number to find sum of its digits 123
+sum of digits of number is 6f
+
