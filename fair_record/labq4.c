@@ -6,8 +6,7 @@ int main()
     int m,n;            // rows and columns
     int i,j,k;
     int largest, second;
-    int min, col;
-    int saddle = 0;     // flag to check if saddle point exists
+    int min, col, saddle = 0;     // flag to check if saddle point exists
 
     printf("Enter number of rows and columns: ");
     scanf("%d%d",&m,&n);
