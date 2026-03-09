@@ -23,7 +23,7 @@ int main()
         }
     }
 
-    /* ---------------- SECOND LARGEST ELEMENT ---------------- */
+    
 
     // Step 1: assume first element is largest
     largest = a[0][0];
@@ -54,8 +54,7 @@ int main()
     printf("Second largest element = %d\n",second);
 
 
-    /* ---------------- SADDLE POINT ---------------- */
-
+    
     // Check each row
     for(i=0;i<m;i++)
     {
