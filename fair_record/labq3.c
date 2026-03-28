@@ -19,7 +19,7 @@ float sinx(float x)
     while(1)
     {
         term=pow(x,n)/fact(n);
-        if (term<0.0000001)
+        if (fabs(term<0.0000001))
             break;
         sum += sign * term;
         sign = -sign;
@@ -35,7 +35,7 @@ float cosx(float x)
     while(1)
     {
         term=pow(x,n)/fact(n);
-        if (term<0.000001)
+        if (fabs(term<0.000001))
             break;
         sum += sign * term;
         sign = -sign;
