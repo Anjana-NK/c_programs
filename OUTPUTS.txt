@@ -347,3 +347,19 @@ enter a number to find reverse 123
 reversed number is 321enter a number to find sum of its digits 123
 sum of digits of number is 6f
 
+output of sum_array.c
+enter number of elements in array: 
+5
+enter the elements of array: 
+1
+2
+3
+4
+5
+
+output of char_add.c
+enter a character string: apple
+address of character a is 000000da111ff7b0
+address of character p is 000000da111ff7b1
+address of character p is 000000da111ff7b2
+address of character l is 000000da111ff7b3
