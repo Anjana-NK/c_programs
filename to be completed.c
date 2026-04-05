@@ -20,4 +20,15 @@ void sum(int a , int b )
 	printf("sum id %d",c);
 	area();
 }
-	
+void vote(int age)
+{
+	if(age>=18)
+	{
+		printf("eligible for vote");
+	}
+	else
+	{
+		printf("not eligible for vote");
+	}
+}
+
