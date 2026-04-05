@@ -183,16 +183,21 @@ Exiting the program.
 
 output of diagonal.c
 enter rows and coloum of matrix3 3
-enter elements to first matrix 1 
-2
-3
-4
+enter elements to matrix1 2 3
+4 5 6
+7 8 9
+diagonal elements are:
+1
 5
-6
-6
-6
-6
-156
+9
+upper triangular elements are:
+1       2       3
+        5       6
+                9
+lower triangular elements are:
+1
+4       5
+7       8       9
 
 output of summatrix.c
 enter rows and coloum of first matrix2 3
@@ -363,3 +368,32 @@ address of character a is 000000da111ff7b0
 address of character p is 000000da111ff7b1
 address of character p is 000000da111ff7b2
 address of character l is 000000da111ff7b3
+
+output of fun.c
+enter two numbers: 2 3
+sum is 5
+enter radius: 2
+area of circle is 12.560000
+enter age: 22
+eligible for vote
+enter radius: 3
+area of circle is 28.260000
+
+output of stringsort.c
+enter a string: cbsdfe
+sorted string is: bcdefs
+
+output of arraymerge.c
+Enter the number of elements in the first array: 5
+Enter the elements of the first array: 1
+2
+3
+4
+5
+Enter the number of elements in the second array: 4
+Enter the elements of the second array: 6
+7
+8
+9
+Merged array is: 1 2 3 4 5 6 7 8 9 
+
